@@ -1,10 +1,10 @@
 # Social Media Knowledge Graphs for Epilepsy Discourse
 ## Overview
 We provide four social media knowledge graphs (KGs) capturing online epilepsy discourse from the following platforms:
-- **X (formerly Twitter)** [Download](link-to-X-KG-file)
-- **Instagram** [Download](link-to-X-KG-file)
-- **Reddit (r/Epilepsy)** [Download](link-to-X-KG-file)
-- **Epilepsy Foundation Forums (EFA)** [Download](link-to-X-KG-file)
+- **X (formerly Twitter)** [Download](https://github.com/CASCI-lab/SocialMediaKnowledgeGraphs/blob/main/X_KG.graphml)
+- **Instagram** [Download](https://github.com/CASCI-lab/SocialMediaKnowledgeGraphs/blob/main/Instagram_KG.graphml)
+- **Reddit (r/Epilepsy)** [Download](https://github.com/CASCI-lab/SocialMediaKnowledgeGraphs/blob/main/Reddit_KG.graphml)
+- **Epilepsy Foundation Forums (EFA)** [Download](https://github.com/CASCI-lab/SocialMediaKnowledgeGraphs/blob/main/EFA_KG.graphml)
 
 ## Reference Paper
 The methodology and results are described in the following paper:
