@@ -15,7 +15,7 @@ The methodology and results are described in the following paper:
 ## Network Overview
 The image **`KGOverview.png`** provides an overview of the four social media KGs and their corresponding metric backbones.
 
-<img src="KGOverview.png" alt="Network Overview" width="50%">
+<img src="KGOverview.png" alt="Network Overview" width="100%">
 
 - **Left Side:** The full knowledge graph for each data source, where all edges are considered.
 - **Right Side:** The **metric backbone subgraph**, where only edges with the attribute `'is_metric' = True` are retained.
@@ -24,7 +24,7 @@ You can generate these visualizations using the provided KGs.
 
 ## Data Availability and Copyright Considerations
 ### MedDRA & DrugBank Terms
-Due to copyright restrictions, we **redacted specific term names** sourced from **MedDRA** and **DrugBank** but provided the **source ID** to allow retrieval for users with appropriate access.
+Due to copyright restrictions, we **redacted specific term names** sourced from **MedDRA** (v15.0) and **DrugBank** (v.5.1.0) but provided the **source ID** to allow retrieval for users with appropriate access.
 
 #### Example:
 For a node with index `9169`, the attributes are as follows:
