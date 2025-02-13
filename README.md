@@ -46,7 +46,7 @@ For sources that **do not** have copyright restrictions, we provide the full ter
 ## Reproducing the `NetworkPanel` Image
 To facilitate reproducibility, we intentionally retained the following key nodes in the provided KGs:
 
-[View the Network Panel Image](NetWorkPannel.pdf)
+[View the Network Panel Image](NetworklPannel.pdf)
 
 - `Epilepsy`
 - `Migraine`
